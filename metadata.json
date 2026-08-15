@@ -1,0 +1,6 @@
+{
+  "name": "TubeZip - YouTube Playlist Downloader",
+  "description": "Telechargez des playlists YouTube complètes en formats MP3 ou MP4 et enregistrez-les en fichier ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
